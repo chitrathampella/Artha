@@ -12,7 +12,7 @@ function App() {
         path="/"
         element={
           <ProtectedRoutes>
-            <Header />   {/* ✅ Header only when logged in */}
+            <Header /> 
             <HomePage />
           </ProtectedRoutes>
         }
