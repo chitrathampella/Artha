@@ -23,7 +23,7 @@ const Header = () => {
   const handleLogout = () => {
     localStorage.removeItem("user");
     setLoginUser(null);
-    navigate("/login"); // Redirect to login page after logout
+    navigate("/login"); 
   };
 
   return (
