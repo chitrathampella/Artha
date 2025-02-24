@@ -17,7 +17,7 @@ Artha/
 │── package.json   
 │── README.md 
 
-Technologies Used
+Technologies Used: 
 React.js
 Bootstrap
 Ant Design (for forms & UI components)
